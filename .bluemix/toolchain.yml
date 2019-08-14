@@ -13,7 +13,7 @@ sample-repo:
   service_id: githubpublic
   parameters:
     repo_name: "{{name}}"
-    repo_url: https://github.com/surasiterix/bluemix-php-sample
+    repo_url: https://github.com/abgutierrez/bluemix-php-sample
     type: existing
     has_issues: false
 
