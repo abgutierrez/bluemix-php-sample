@@ -21,7 +21,7 @@ stages:
 
       echo "sudo apt-get -qq -y install php"
       sudo apt-get -qq -y install php
-
+      sudo apt-get -qq -y install python
       echo "apt-get -qq clean"
       sudo apt-get -qq clean
 
